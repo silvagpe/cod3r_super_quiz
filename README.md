@@ -1,4 +1,4 @@
-# filtros-mixins-exercicios
+# Super quiz
 
 ## Project setup
 ```
